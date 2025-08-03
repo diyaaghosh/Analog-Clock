@@ -43,20 +43,20 @@ cd analog-clock-gui
 python analog_clock.py
 ```
 #### How It Works
-The clock face is drawn using canvas shapes.
+- The clock face is drawn using canvas shapes.
 
-The hour, minute, and second hands are drawn as lines.
+- The hour, minute, and second hands are drawn as lines.
 
-Every 100 milliseconds, the time is fetched, and the hands are rotated accordingly.
+- Every 100 milliseconds, the time is fetched, and the hands are rotated accordingly.
 
 #### Customization Ideas
-Add digital time display
+- Add digital time display
 
-Customize themes (dark mode, neon, etc.)
+- Customize themes (dark mode, neon, etc.)
 
-Add ticking sound or animations
+- Add ticking sound or animations
 
-Export as a desktop widget
+- Export as a desktop widget
 
 ]
 
