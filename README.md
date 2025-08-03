@@ -60,9 +60,3 @@ python analog_clock.py
 
 ]
 
-#### License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-```
-Let me know if you want a matching `LICENSE`, or the actual Python code included!
-```
